@@ -38,7 +38,7 @@
 ## 💡 More About Me
 
 - 💬 Open to discussions on web scraping, automation, and full-stack development.
-- 📫 **Contact me**: Blog | Email | GitHub Issues  
+- 📫 **Contact me**: [Blog](https://www.yybloger.com) | [Email](mailto:yy@yybloger.com) | [GitHub](https://github.com/yenyoong99) Issues  
 
 ---
 
