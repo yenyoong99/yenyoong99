@@ -13,7 +13,7 @@
 - **Languages**: Python, JavaScript, PHP, Go  
 - **Web Development**: Vue.js, Django, Flask, FastApi, Gin
 - **Databases**: MySQL, Redis, MongoDB , SQLite 
-- **Web Scraping & Reverse Engineering**: Scrapy, Selenium, Puppeteer
+- **Web Scraping & Reverse Engineering**: Scrapy, Selenium, Puppeteer, JavaScript, Hook, Descrypt
 - **DevOps & Infrastructure**: Docker, Nginx, Linux, CI/CD  
 
 ---
