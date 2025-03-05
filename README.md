@@ -27,7 +27,7 @@
 ## 📌 Featured Projects
 
 - **[YYBloger | Personal Blog System](https://github.com/yenyoong99/goProjects_yyblog)** 🌏  
-- **[TeleBot Manager System](https://github.com/yenyoong99/telebotmgr)** 🤖  
+- **[TeleBot Manager System](https://github.com/yenyoong99/telebot_manager)** 🤖  
 - **[YY Assistant Bot with Check-in System ](#)** 🧑🏻‍🚀
 - **[Space Rent Booking System ](https://github.com/yenyoong99/SpaceRental_System)** 🎟️
 - **[FRPC Manager](https://github.com/yenyoong99/FRPC_Manager)** ✨
