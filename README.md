@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm YenYoong99 👋
+# 🚀 Hi, I'm YenYoong 👋
 
 💻 **Software Engineer | Web Full-Stack | Web Scraping | Reverse Engineering**  
 📍 3 years of experience in web development, automation, and data scraping.
@@ -30,6 +30,7 @@
 - **[TeleBot Manager System](https://github.com/yenyoong99/telebotmgr)** 🤖  
 - **[YY Assistant Bot with Check-in System ](#)** 🧑🏻‍🚀
 - **[Space Rent Booking System ](#)** 🎟️
+- **[FRPC Manager](https://github.com/yenyoong99/FRPC_Manager)** 🎟
 - **More projects coming soon...** 🚀  
 
 ---
